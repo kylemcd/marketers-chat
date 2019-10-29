@@ -26,7 +26,7 @@ This uses [npm-run-all](https://github.com/mysticatea/npm-run-all#readme) to run
 
 ### Option 2: Start each server individually
 
-**Run the functions dev server**
+***Run the functions dev server***
 
 From inside the project folder, run:
 
